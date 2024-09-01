@@ -1,0 +1,55 @@
+# +--------------------------------------------------------------+
+# PLEASE REMOVE ALL EXISTING DEADCHESTS BEFORE EDITING THIS FILE
+# +--------------------------------------------------------------+
+# You can add colors on texts :
+# Example '§cHello' will print Hello in red
+# §4 : DARK_RED
+# §c : RED
+# §6 : GOLD
+# §e : YELLOW
+# §2 : DARK_GREEN
+# §a : GREEN
+# §b : AQUA
+# §3 : DARK_AQUA
+# §1 : DARK_BLUE
+# §9 : BLUE
+# §d : LIGHT_PURPLE
+# §5 : DARK_PURPLE
+# §f : WHITE
+# §7 : GRAY
+# §8 : DARK_GRAY
+# §0 : BLACK
+# +---------------------------------------------------------------+
+# You can also add some styling options :
+# §l : Text in bold
+# §o : Text in italic
+# §n : Underline text
+# §m : Strike text
+# §k : Magic 
+# +---------------------------------------------------------------+
+# Need help ? Join the discord support :
+# https://discord.com/invite/jCsvJxS
+# +---------------------------------------------------------------+
+
+localisation:
+  loc_doubleDC: §lError:§c墓の横にチェストは置けません。
+  loc_noDCG: §l警告:§c墓石は生成されません。
+  loc_noperm: §l警告:§e貴方にはこれを実行する権限がありません。
+  loc_dclistall: §aすべての墓のリストです。
+  loc_dclistown: §a貴方のの墓のリストです。
+  loc_not_owner: §6注意:これは貴方の墓ではありません。
+  loc_infinityChest: §0これは運営の墓です。残り時間はありません。
+  loc_dcgbsuccess: §3注意:貴方の中で最も古い墓が彼の元へ帰ってきました。
+  loc_endtimer: 左
+  loc_reload: §4システム:読み込み完了！
+  loc_nodc: §7404 not found:あなたの墓が見つからないようです...
+  loc_prefix: '[墓] '
+  loc_maxHeight: §c貴方はこの世界の限界を超えて死んでいます。
+  loc_givebackInfo: §6注意:この人はいないです。または有効な墓がありません。
+  holo_timer: §l警告:この墓はあと残り§c%hours%§c時間§c%min%§c分§c%sec%§c秒で削除されます。
+  loc_chestPos: §6注意:貴方の棺はここです。
+  loc_noPermsToGet: §l警告:この墓を絶対に開けてはいけません。
+  holo_loading: Now... Loading... るかさんtオイレ中....
+  loc_gbplayer: §6注意:貴方は墓の中身を取り出しました。
+  holo_owner: §6注意:§6%player%の墓です。
+  loc_nodcs: §l警告:現段階で墓はありません。
