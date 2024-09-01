@@ -49,7 +49,7 @@ localisation:
   holo_timer: §l警告:この墓はあと残り§c%hours%§c時間§c%min%§c分§c%sec%§c秒で削除されます。
   loc_chestPos: §6注意:貴方の棺はここです。
   loc_noPermsToGet: §l警告:この墓を絶対に開けてはいけません。
-  holo_loading: Now... Loading... るかさんtオイレ中....
+  holo_loading: Now... Loading...
   loc_gbplayer: §6注意:貴方は墓の中身を取り出しました。
   holo_owner: §6注意:§6%player%の墓です。
   loc_nodcs: §l警告:現段階で墓はありません。
